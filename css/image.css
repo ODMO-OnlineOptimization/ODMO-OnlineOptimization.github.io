@@ -1,0 +1,5 @@
+.includeImage {
+    object-fit:cover;
+    width:200px;
+    height:240px !important;
+}

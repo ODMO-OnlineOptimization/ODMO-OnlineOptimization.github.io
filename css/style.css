@@ -76,7 +76,7 @@ h1,h2, h3, h4, h5, h6 {
 	font-weight:700;
 	line-height:1.1em;
 	color:#333;
-	margin-bottom: 20px;
+	margin-bottom: 16px;
 }
  
 .container {
@@ -472,7 +472,7 @@ bottom: -30px;
 }
 .team-member {
     text-align: center;
-    background-color: #F9F9F9;
+    background-color: white;
     padding-bottom: 15px;
 }
 .fancybox-title-inside-wrap {
